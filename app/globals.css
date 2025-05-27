@@ -40,3 +40,15 @@ body {
   font-weight: 500;
   color: #ddd8d8;
 }
+.not-found ul,
+.error ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  color: #ddd8d8;
+}
+.not-found ul li,
+.error ul li {
+  margin-bottom: 1rem;
+  color: #ddd8d8;
+}
